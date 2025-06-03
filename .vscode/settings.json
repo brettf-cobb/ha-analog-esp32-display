@@ -1,0 +1,13 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPath": "/home/brett/esp/esp-idf",
+  "idf.pythonInstallPath": "/home/brett/.espressif/python_env/idf6.0_py3.12_env/bin/python",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "idf.port": "/dev/ttyS0",
+  "idf.toolsPath": "/home/brett/.espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  }
+}
